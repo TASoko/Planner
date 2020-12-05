@@ -1,2 +1,4 @@
-//var now = DateTime.local();
-alert("Hello World");
+//$("#currentDay").text(DateTime.local());
+
+
+$("#currentDay").text(luxon.DateTime.local().toLocaleString({ weekday: 'long', month: 'long', day: '2-digit' }));
