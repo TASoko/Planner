@@ -1,6 +1,6 @@
 // var hours = $(".hour");
 // var timeBlock = $(".time-block");
-// var saveBtn = $(".saveBtn");
+
 
 var agenda = [];
 
@@ -46,4 +46,16 @@ $(".time-block").each(function (){
 
 //console.log(currentTime);
 }
+
+var saveBtn = $(".saveBtn");
+
+saveBtn.on("click", function() {
+    let hour = $(this).siblings(".hour").text();
+    let input = $(this).siblings("#input").val();
+    // console.log(input);
+    // console.log(hour);
+
+    localStorage.setItem(hour, input);
+})
+
 timeChange();
