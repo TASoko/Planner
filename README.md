@@ -20,6 +20,6 @@ Images:
 https://github.com/TASoko/Planner/blob/main/Assets/work-day-planner.png
 
 2. Proof of the ability to type text 
-
+Assets/Screen Shot 2020-12-09 at 9.02.38 PM.png
 
 3. Proof that the input will remain in the local storage
