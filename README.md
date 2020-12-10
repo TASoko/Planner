@@ -16,7 +16,8 @@ Another important part of the usability of this page was that when a user saves 
 Images:
 1. The planner
 
-<img scr="Assets/work-day-planner.png">
+
+https://github.com/TASoko/Planner/blob/main/Assets/work-day-planner.png
 
 2. Proof of the ability to type text 
 
