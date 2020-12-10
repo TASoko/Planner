@@ -16,10 +16,11 @@ Another important part of the usability of this page was that when a user saves 
 Images:
 1. The planner
 
-
 https://github.com/TASoko/Planner/blob/main/Assets/work-day-planner.png
 
 2. Proof of the ability to type text 
-Assets/Screen Shot 2020-12-09 at 9.02.38 PM.png
+https://github.com/TASoko/Planner/blob/main/Assets/Screen%20Shot%202020-12-09%20at%209.02.38%20PM.png
 
 3. Proof that the input will remain in the local storage
+
+Link to deployed URL
