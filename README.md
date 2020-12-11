@@ -16,9 +16,9 @@ Another important part of the usability of this page was that when a user saves 
 Images:
 1. The planner
 
-
+<img scr="Assets/work-day-planner.png">
 
 2. Proof of the ability to type text 
-
+()
 
 3. Proof that the input will remain in the local storage
