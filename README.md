@@ -24,3 +24,4 @@ https://github.com/TASoko/Planner/blob/main/Assets/Screen%20Shot%202020-12-09%20
 https://github.com/TASoko/Planner/blob/main/Assets/Screen%20Shot%202020-12-09%20at%209.03.02%20PM.png
 
 Link to deployed URL
+https://tasoko.github.io/Planner/
